@@ -4,9 +4,9 @@
 
 ## 演示
 
-![ums](注册.gif)
-![ums](登录.gif)
-![ums](增删地址.gif)
+![ums](/screenshot/注册.gif)
+![ums](/screenshot/登录.gif)
+![ums](/screenshot/增删地址.gif)
 
 ## 目录结构
 
