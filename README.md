@@ -40,8 +40,8 @@ Es6,
 
 ```bash
 |__ public                                    # 本地代理
-    |__ favicon.ico                               # 图标
-    |__ index.html                                # 主页面
+    |__ favicon.ico                             # 图标
+    |__ index.html                              # 主页面
 |__ src
     |__ App.vue                               # 入口文件
     |__ main.js                               # 入口js
@@ -58,7 +58,7 @@ Es6,
         |__ Address  
             |__ Register.vue                  # 增加地址
             |__ Register.vue                  # 删除地址
-    |__ router                                 # router
+    |__ router                                # router
       |__ index.js                              # 路由
     |__ store                                 # vuex
       |__ index.js                              # 全局
@@ -77,6 +77,7 @@ Es6,
 
 ## 构建
 ``` bash
+
 # 安装依赖
 npm install
 
@@ -95,4 +96,5 @@ npm run lint
 脚手架的基本配置为根目录 `vue.config.js` 文件。可根据自身项目配置修改。
 
 ### 配置参考
-*详情查看vue-cli3 [配置参考](https://cli.vuejs.org/zh/config/).
+
+>详情查看vue-cli3 [配置参考](https://cli.vuejs.org/zh/config/).
