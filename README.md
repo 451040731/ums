@@ -2,15 +2,25 @@
 
 > 基于 vue-cli3 用户管理系统
 
+## 技术栈
+
+vuejs,
+vue-router,
+vue-cli,
+vuex,
+axios,
+webpack,
+Es6,
+
 ## 演示
 
-### 注册
+- 注册
 ![ums](/screenshot/注册.gif)
 
-### 登录
+- 登录
 ![ums](/screenshot/登录.gif)
 
-### 增删地址
+- 增删地址
 ![ums](/screenshot/增删地址.gif)
 
 ## 特性
@@ -80,5 +90,9 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 打包配置项
+
+脚手架的基本配置为根目录 `vue.config.js` 文件。可根据自身项目配置修改。
+
+### 配置参考
+*详情查看vue-cli3 [配置参考](https://cli.vuejs.org/zh/config/).
